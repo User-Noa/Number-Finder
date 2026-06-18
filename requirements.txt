@@ -1,0 +1,6 @@
+requests
+pycryptodome
+colorama
+arabic-reshaper
+python-bidi
+urllib3
