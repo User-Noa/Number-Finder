@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20Termux-34a0a4?style=for-the-badge&logo=linux" />
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
 
-</div>
+</div dir="rtl">
 
 ---
 
