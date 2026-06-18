@@ -49,7 +49,7 @@ sudo dnf install python3 python3-pip
 **مرحله ۲ — کلون و نصب:**
 ```bash
 git clone https://github.com/User-Noa/Number-Finder.git
-cd noa-numberfinder
+cd Number-Finder
 pip install -r requirements.txt
 ```
 
@@ -73,7 +73,7 @@ python main.py
 **مرحله ۳ — کلون و نصب:**
 ```bash
 git clone https://github.com/User-Noa/Number-Finder.git
-cd noa-numberfinder
+cd Number-Finder
 pip install -r requirements.txt
 ```
 
@@ -106,7 +106,7 @@ pkg install python git rust -y
 **مرحله ۲ — کلون و نصب:**
 ```bash
 git clone https://github.com/User-Noa/Number-Finder.git
-cd noa-numberfinder
+cd Number-Finder
 pip install -r requirements.txt
 ```
 
@@ -115,18 +115,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
----
-
-## 📦 requirements.txt
-
-```
-requests
-pycryptodome
-colorama
-arabic-reshaper
-python-bidi
-urllib3
-```
 
 ---
 
