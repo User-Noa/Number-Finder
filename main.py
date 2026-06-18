@@ -299,7 +299,7 @@ def loop_search(api, mode):
 
 def farewell():
     print()
-    msg = "  [ NOA ]  —  session closed"
+    msg = "  [ Noa ]  —  session closed"
     for ch in msg:
         sys.stdout.write(f"{PDIM}{ch}{R}")
         sys.stdout.flush()
